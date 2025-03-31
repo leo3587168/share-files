@@ -1,0 +1,59 @@
+{
+	"version": 1,
+	"rules": [
+		{
+			"domain": [
+				"cdn.jsdelivr.net",
+				"download.jetbrains.com",
+				"python.org",
+				"pypi.org",
+				"apache.org",
+				"mvnrepository.com",
+				"docker.io",
+				"docker.com",
+				"bintray.com",
+				"spring.io",
+				"npmjs.org",
+				"yarnpkg.com",
+				"rubygems.org",
+				"golang.org",
+				"nuget.org",
+				"ubuntu.com",
+				"debian.org",
+				"centos.org",
+				"elastic.co",
+				"jetbrains.com",
+				"sonatype.com",
+				"gradle.org",
+				"dl.google.com",
+				"raw.githubusercontent.com"
+			],
+			"domain_suffix": [
+				".cdn.jsdelivr.net",
+				".download.jetbrains.com",
+				".python.org",
+				".pypi.org",
+				".apache.org",
+				".mvnrepository.com",
+				".docker.io",
+				".docker.com",
+				".bintray.com",
+				".spring.io",
+				".npmjs.org",
+				".yarnpkg.com",
+				".rubygems.org",
+				".golang.org",
+				".nuget.org",
+				".ubuntu.com",
+				".debian.org",
+				".centos.org",
+				".elastic.co",
+				".jetbrains.com",
+				".sonatype.com",
+				".gradle.org",
+				".dl.google.com",
+				".raw.githubusercontent.com"
+			]
+		}
+	]
+}

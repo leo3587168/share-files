@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"rules": [
+		{
+			"domain": [
+				"example-test-block.com"
+			],
+			"domain_suffix": [
+				".example-test-block.com"
+			]
+		}
+	]
+}
